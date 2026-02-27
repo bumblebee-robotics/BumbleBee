@@ -1,0 +1,6 @@
+[submodule "Arm"]
+	path = Arm
+	url = https://github.com/bumblebee-robotics/Arm.git
+[submodule "Base"]
+	path = Base
+	url = https://github.com/bumblebee-robotics/Base.git
