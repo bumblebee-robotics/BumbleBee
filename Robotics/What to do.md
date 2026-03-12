@@ -1,0 +1,17 @@
+- [x] What are autonomous systems? Automatic system vs. Autonomous system?
+- Tools?
+	- Windows Subsystem for Linux (WSL)
+		- Development (flexibility ☝️ but performance 👇)
+			- Dual-boot
+			- Virtual Machine
+			- [x] WSL
+			- Docker
+		- Deployment (performance ☝️ but flexibility 👇)
+	- [x] VS Code
+	- ROS
+		- [x] Concepts
+			- [x] Philosophy
+			- [x] Simulators
+			- [x] Capabilities (control, perception, ...)
+			- [x] ...
+		- Tutorial

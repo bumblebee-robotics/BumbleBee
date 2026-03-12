@@ -1,0 +1,1 @@
+[igus ReBeL | 6 DOF | 660 mm | 2 kg](https://rbtx.com/en-US/components/robots/rebel-cobot-6-degrees-of-freedom-reach-664-mm?srsltid=AfmBOorBoyXGhDBOyJ6RsLbNcKHfIHuXU9MnHfU9qIjPyZQcN8K3b618)
