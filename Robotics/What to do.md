@@ -14,4 +14,4 @@
 			- [x] Simulators
 			- [x] Capabilities (control, perception, ...)
 			- [x] ...
-		- Tutorial
+		- [x] Tutorial
